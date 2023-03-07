@@ -1,0 +1,22 @@
+.appt-modal-h-500{
+    height: 500px;
+}
+
+.appt-input-w-300{
+    width: 300px;
+}
+
+.appt-error-message{
+    color:red;
+}
+
+.appt-avatar{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+.appt-img-main {
+    height: auto;
+    width: 500px;
+}
