@@ -1,0 +1,49 @@
+.hasty-topnav {
+    background-color: #5C2563 !important;
+}
+
+.theme-primary {
+    color: #2E1A47;
+}
+
+.theme-secondary {
+    color: #5C2563;
+}
+
+.theme-accent {
+    color: #FF9126;
+}
+
+.page-title {
+    font-size: 18px;
+    margin: 0;
+    line-height: 75px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.page-title-right {
+    float: right;
+    margin-top: 20px;
+}
+
+.breadcrumb {
+    padding-top: 8px;
+}
+
+.breadcrumb a {
+    color: #2E1A47 !important;
+}
+
+.card-highlighted:hover {
+    cursor: pointer;
+    background-color: rgb(250, 250, 250);
+    border-radius: 1px;
+}
+
+.card-selected {
+    cursor: pointer;
+    background-color: rgb(235, 235, 235);
+    border-radius: 1px;
+}

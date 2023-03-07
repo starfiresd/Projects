@@ -1,0 +1,95 @@
+.message img {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    padding: 0;
+}
+
+.object-fit-cover{
+    object-fit: cover;
+}
+
+.chat-font-smaller{
+    font-size: smaller;
+}
+
+.message ul {
+    list-style-type: none;
+}
+
+.message-list-card{
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.message-text {
+    background-color: #147efb;
+    color: white;
+}
+
+.message-text-response{
+    background-color: #8e8e93;
+    color: white;
+}
+
+.message-input-temp{
+    width: 50px;
+}
+
+.chat-window {
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.chat-input-container {
+    background-color: lightgray;
+    padding: 0.5em;
+}
+
+.chat-card{
+    width: 18rem;
+}
+
+.wrapper-field {
+    position: relative;
+}
+
+.icon-field {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 5px;
+    position: absolute;
+    box-sizing: border-box;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+}
+
+.block-icon {
+    position: relative;
+    display: inline-flex;
+}
+
+.icon-tag {
+    position: absolute;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    width: 12px !important;
+    height: 12px !important;
+}
+
+.input-field {
+    height: 50px;
+    box-sizing: border-box;
+    padding-left: 1.5rem;
+}
+
+.friend-info-card{
+    height: 40rem;
+}

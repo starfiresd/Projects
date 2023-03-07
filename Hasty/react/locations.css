@@ -1,0 +1,31 @@
+.location-form {
+    max-width: 400px !important;
+}
+
+.location-error-message {
+    width: 100%;
+    font-size: 80;
+    color: red;
+}
+
+.location-google-map {
+    width: auto;
+    height: 700px;
+}
+
+.location-google-map-small {
+    width: 238px;
+    height: 238px;
+}
+
+.location-card {
+    max-width: 250px !important;
+    max-height: 400px !important;
+    margin: 1rem;
+}
+
+.locations-info-img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
