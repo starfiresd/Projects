@@ -1,18 +1,18 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.SignalR;
-using Sabio.Models;
-using Sabio.Models.Domain.Messages;
-using Sabio.Models.Requests.Messages;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Hasty.Models;
+using Hasty.Models.Domain.Messages;
+using Hasty.Models.Requests.Messages;
+using Hasty.Services;
+using Hasty.Services.Interfaces;
+using Hasty.Web.Controllers;
+using Hasty.Web.Models.Responses;
 using System;
-using Sabio.Web.Api.Hubs;
+using Hasty.Web.Api.Hubs;
 using System.Collections.Generic;
 
-namespace Sabio.Web.Api.Controllers
+namespace Hasty.Web.Api.Controllers
 {
     [Route("api/messages")]
     [ApiController]
