@@ -1,14 +1,14 @@
-﻿using Sabio.Data.Providers;
+using Hasty.Data.Providers;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
-using Sabio.Models.Domain.Messages;
-using Sabio.Data;
-using Sabio.Models;
-using Sabio.Models.Requests.Messages;
-using Sabio.Services.Interfaces;
+using Hasty.Models.Domain.Messages;
+using Hasty.Data;
+using Hasty.Models;
+using Hasty.Models.Requests.Messages;
+using Hasty.Services.Interfaces;
 
-namespace Sabio.Services
+namespace Hasty.Services
 {
     public class MessageService : IMessageService
     {
