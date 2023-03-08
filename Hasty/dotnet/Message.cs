@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sabio.Models.Domain.Messages
+namespace Hasty.Models.Domain.Messages
 {
     public class Message
     {
