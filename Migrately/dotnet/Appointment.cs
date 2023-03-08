@@ -1,12 +1,12 @@
-﻿using Sabio.Models.Domain.Attorneys;
-using Sabio.Models.Domain.Users;
+using Migrately.Models.Domain.Attorneys;
+using Migrately.Models.Domain.Users;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.Appointments
+namespace Migrately.Models.Domain.Appointments
 {
     public class Appointment
     {
