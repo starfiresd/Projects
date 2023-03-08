@@ -1,11 +1,11 @@
 ﻿using System.Threading.Tasks;
-using Sabio.Models.Domain.Messages;
+using Hasty.Models.Domain.Messages;
 using Microsoft.AspNetCore.SignalR;
-using Sabio.Services.Interfaces;
+using Hasty.Services.Interfaces;
 using System;
-using Sabio.Models;
+using Hasty.Models;
 
-namespace Sabio.Web.Api.Hubs
+namespace Hasty.Web.Api.Hubs
 {
     public class ChatHub : Hub<IChatClient>
     {
