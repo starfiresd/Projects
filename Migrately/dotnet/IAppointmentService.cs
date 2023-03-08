@@ -1,8 +1,8 @@
-﻿using Sabio.Models;
-using Sabio.Models.Domain.Appointments;
-using Sabio.Models.Requests.Appointments;
+using Migrately.Models;
+using Migrately.Models.Domain.Appointments;
+using Migrately.Models.Requests.Appointments;
 
-namespace Sabio.Services.Interfaces
+namespace Migrately.Services.Interfaces
 {
     public interface IAppointmentService
     {
