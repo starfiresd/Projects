@@ -1,21 +1,21 @@
 ﻿using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
-using Sabio.Web.StartUp;
+using Migrately.Services;
+using Migrately.Services.Interfaces;
+using Migrately.Web.Controllers;
+using Migrately.Web.Models.Responses;
+using Migrately.Web.StartUp;
 using Stripe;
 using System.Data.SqlClient;
 using System;
-using Sabio.Models.Domain.Appointments;
-using Sabio.Models;
-using Sabio.Models.Requests.Appointments;
+using Migrately.Models.Domain.Appointments;
+using Migrately.Models;
+using Migrately.Models.Requests.Appointments;
 using SendGrid;
 using Microsoft.AspNetCore.Authorization;
 
-namespace Sabio.Web.Api.Controllers
+namespace Migrately.Web.Api.Controllers
 {
     [Route("api/appointments")]
     [ApiController]
