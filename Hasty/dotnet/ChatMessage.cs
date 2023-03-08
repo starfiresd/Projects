@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.Messages
+namespace Hasty.Models.Domain.Messages
 {
     public class ChatMessage
     {
