@@ -4,6 +4,8 @@ Selected and approved code snippets from recent projects.
 # Hasty
 Hasty is a Veteran startup focused on building a solution to help active military personnel find appropriate housing near military installations. Hasty is a minimum viable product (MVP). Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains SQL, .NET, and ReactJS code.
 
+My responsibility at Hasty was to build a chat system for users to communicate about housing needs. It allows users to see recent chats, setup video calls, and manage their favorites for quick response to their most used contacts. I also managed the location view for all location types. This includes housing listings, personal locations, and any other application that needed to interface with Google Maps API. Listings can be viewed on a Google map where the user can see pertinent data to the listing. The component for locations is universal and comes with a built in edit function to change location information on the spot.
+
 • Create real-time chat service to connect landlords with tenants using SignalR. 
 
 • Use AJAX calls to track recent chat conversations, view most recent message from users, and provide current conversation contact card with SQL inner joins to connect user table and message table.
@@ -26,6 +28,8 @@ Hasty is a Veteran startup focused on building a solution to help active militar
 
 # Migrately
 Migrately is a startup designed to streamline the immigration process and connect clients with lawyers. Migrately uses a step-by-step process to walk users through the different types of visas, documents, and processes for traveling and migrating to the United States. Migrately is a minimum viable product (MVP). Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains SQL, .NET, and ReactJS code.
+
+My responsibility at Migrately was to build an appointment manager. The appointment manager allows users to search for specific attorneys or select current clients. The user can view available time slots to setup appointments. The user can link to video chat for virtual meetings and see additional information about the law firm including contact information, bio, and specialty.
 
 • Build appointment calendar to track user appointments and see when other users are unavailable. 
 
