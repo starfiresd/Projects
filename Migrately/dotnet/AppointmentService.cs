@@ -1,5 +1,5 @@
-﻿using Sabio.Data.Providers;
-using Sabio.Models.Domain.Appointments;
+using Migrately.Data.Providers;
+using Migrately.Models.Domain.Appointments;
 using Stripe;
 using System;
 using System.Collections.Generic;
@@ -8,16 +8,16 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Sabio.Data;
-using Sabio.Services.Interfaces;
-using Sabio.Models.Domain;
-using Sabio.Models.Domain.Attorneys;
-using Sabio.Models.Domain.Users;
+using Migrately.Data;
+using Migrately.Services.Interfaces;
+using Migrately.Models.Domain;
+using Migrately.Models.Domain.Attorneys;
+using Migrately.Models.Domain.Users;
 using System.Net;
-using Sabio.Models;
-using Sabio.Models.Requests.Appointments;
+using Migrately.Models;
+using Migrately.Models.Requests.Appointments;
 
-namespace Sabio.Services
+namespace Migrately.Services
 {
     public class AppointmentService : IAppointmentService
     {
