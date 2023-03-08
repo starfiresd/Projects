@@ -1,9 +1,9 @@
-﻿using Sabio.Models;
-using Sabio.Models.Domain.Messages;
-using Sabio.Models.Requests.Messages;
-using System.Collections.Generic;
+﻿using Hasty.Models;
+using Hasty.Models.Domain.Messages;
+using Hasty.Models.Requests.Messages;
+using Hasty.Collections.Generic;
 
-namespace Sabio.Services.Interfaces
+namespace Hasty.Services.Interfaces
 {
     public interface IMessageService
     {
