@@ -2,9 +2,12 @@
 Selected and approved code snippets from recent projects.
 
 # Hasty
-Hasty is a Veteran startup focused on building a solution to help active military personnel find appropriate housing near military installations. Hasty is a minimum viable product (MVP). Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains SQL, .NET, and ReactJS code.
+Hasty is a Los Angeles based, Veteran startup focused on building a solution to help active military personnel find appropriate housing near military installations. Hasty is a minimum viable product (MVP). Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains SQL, .NET, and ReactJS code.
 
 My responsibility at Hasty was to build a chat system for users to communicate about housing needs. It allows users to see recent chats, setup video calls, and manage their favorites for quick response to their most used contacts. I also managed the location view for all location types. This includes housing listings, personal locations, and any other application that needed to interface with Google Maps API. Listings can be viewed on a Google map where the user can see pertinent data to the listing. The component for locations is universal and comes with a built in edit function to change location information on the spot.
+
+![hasty-chat](https://github.com/starfiresd/Projects/blob/main/images/hasty-chat.PNG)
+![hasty-listings](https://github.com/starfiresd/Projects/blob/main/images/hasty-listings.PNG)
 
 • Create real-time chat service to connect landlords with tenants using SignalR. 
 
@@ -31,6 +34,8 @@ Migrately is a startup designed to streamline the immigration process and connec
 
 My responsibility at Migrately was to build an appointment manager. The appointment manager allows users to search for specific attorneys or select current clients. The user can view available time slots to setup appointments. The user can link to video chat for virtual meetings and see additional information about the law firm including contact information, bio, and specialty.
 
+![migrately-calendar](https://github.com/starfiresd/Projects/blob/main/images/migrately-calendar.png)
+
 • Build appointment calendar to track user appointments and see when other users are unavailable. 
 
 • Create appointment form that can filter law firms by keyword to search for specific specialties.
@@ -51,6 +56,8 @@ My responsibility at Migrately was to build an appointment manager. The appointm
 
 # myBands(tm)
 myBands aims to bridge the gap from garage bands to experienced professionals. myBands provides a one-stop-shop to manage finances, contracts, venues, events, and all the backend functions of a band. Get help setting up business entities, filing taxes, and integrating with managers and venue partners. myBands takes care of everything else so your band can focus on what they do best... making music. Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains ReactJS code.
+
+![myBands-landing](https://github.com/starfiresd/Projects/blob/main/images/myBands-landing.jfif)
 
 • Design backend architecture of SQL tables and database diagrams to manage bands, concerts, people, venues, contracts, compliance records, and financial records.
 
