@@ -55,7 +55,7 @@ My responsibility at Migrately was to build an appointment manager. The appointm
 • Test RESTful API’s in Postman.
 
 # myBands(tm)
-myBands aims to bridge the gap from garage bands to experienced professionals. myBands provides a one-stop-shop to manage finances, contracts, venues, events, and all the backend functions of a band. Get help setting up business entities, filing taxes, and integrating with managers and venue partners. myBands takes care of everything else so your band can focus on what they do best... making music. Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains ReactJS code.
+myBands is a San Diego based startup that aims to bridge the gap from garage bands to experienced professionals. myBands provides a one-stop-shop to manage finances, contracts, venues, events, and all the backend functions of a band. Get help setting up business entities, filing taxes, and integrating with managers and venue partners. myBands takes care of everything else so your band can focus on what they do best... making music. Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains ReactJS code.
 
 ![myBands-landing](https://github.com/starfiresd/Projects/blob/main/images/myBands-landing.jfif)
 
