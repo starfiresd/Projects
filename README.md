@@ -10,12 +10,19 @@ Responsibilities at Hasty included building a chat system for users to communica
 ![hasty-listings](https://github.com/starfiresd/Projects/blob/main/images/hasty-listings.PNG)
 
 • Created real-time chat service to connect landlords with tenants using SignalR in C#/.NET. 
+
 • Build UI/UX form to manage user locations utilizing Google Maps API with autocomplete, markers, and info boxes.
+
 • Design user dashboards with menus based on user roles and properties.
+
 • Coordinate peer developers on overall design and standardization of project components and overall look.
+
 • Document best practices and project coding standards.
+
 • Lead daily code review sessions and productivity meetings with peer developers.
+
 • Complete weekly pull requests to production with manager and peer reviews using GitHub.
+
 • Conduct technical training lectures and code troubleshooting sessions with peer developers.
 
 # Migrately
@@ -26,7 +33,11 @@ Responsibility at Migrately was to build an appointment manager. The appointment
 ![migrately-calendar](https://github.com/starfiresd/Projects/blob/main/images/migrately-calendar.png)
 
 • Build appointment calendar to track user appointments and see when other users are unavailable. 
+
 • Create appointment form that can filter law firms by keyword to search for specific specialties.
+
 • Implement security measures with protected routes in ReactJS, authorized roles in C#/.NET API controllers, and using stored procedures in SQL for access control.
+
 • Utilized JavaScript functional components and libraries including ReactJS, Bootstrap, Formik, Yup, Toastr, and date-fns.
+
 • Participate in Agile code review sessions for MVP with 100,000+ lines of code.
